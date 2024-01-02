@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "e:\\Mohammed Amaan's\\dotnet_Projects\\WebAPI_Projects\\SimpleJWT\\SimpleJWT\\SimpleJWT.csproj": {}
+    "E:\\dotnet projects\\WebApi Projects\\AuthJWT\\SimpleJWT.csproj": {}
   },
   "projects": {
-    "e:\\Mohammed Amaan's\\dotnet_Projects\\WebAPI_Projects\\SimpleJWT\\SimpleJWT\\SimpleJWT.csproj": {
+    "E:\\dotnet projects\\WebApi Projects\\AuthJWT\\SimpleJWT.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "e:\\Mohammed Amaan's\\dotnet_Projects\\WebAPI_Projects\\SimpleJWT\\SimpleJWT\\SimpleJWT.csproj",
+        "projectUniqueName": "E:\\dotnet projects\\WebApi Projects\\AuthJWT\\SimpleJWT.csproj",
         "projectName": "SimpleJWT",
-        "projectPath": "e:\\Mohammed Amaan's\\dotnet_Projects\\WebAPI_Projects\\SimpleJWT\\SimpleJWT\\SimpleJWT.csproj",
+        "projectPath": "E:\\dotnet projects\\WebApi Projects\\AuthJWT\\SimpleJWT.csproj",
         "packagesPath": "C:\\Users\\Amaan\\.nuget\\packages\\",
-        "outputPath": "e:\\Mohammed Amaan's\\dotnet_Projects\\WebAPI_Projects\\SimpleJWT\\SimpleJWT\\obj\\",
+        "outputPath": "E:\\dotnet projects\\WebApi Projects\\AuthJWT\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Amaan\\AppData\\Roaming\\NuGet\\NuGet.Config",

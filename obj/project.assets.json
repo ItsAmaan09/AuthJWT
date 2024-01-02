@@ -2160,11 +2160,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\Mohammed Amaan's\\dotnet_Projects\\WebAPI_Projects\\SimpleJWT\\SimpleJWT\\SimpleJWT.csproj",
+      "projectUniqueName": "E:\\dotnet projects\\WebApi Projects\\AuthJWT\\SimpleJWT.csproj",
       "projectName": "SimpleJWT",
-      "projectPath": "E:\\Mohammed Amaan's\\dotnet_Projects\\WebAPI_Projects\\SimpleJWT\\SimpleJWT\\SimpleJWT.csproj",
+      "projectPath": "E:\\dotnet projects\\WebApi Projects\\AuthJWT\\SimpleJWT.csproj",
       "packagesPath": "C:\\Users\\Amaan\\.nuget\\packages\\",
-      "outputPath": "E:\\Mohammed Amaan's\\dotnet_Projects\\WebAPI_Projects\\SimpleJWT\\SimpleJWT\\obj\\",
+      "outputPath": "E:\\dotnet projects\\WebApi Projects\\AuthJWT\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Amaan\\AppData\\Roaming\\NuGet\\NuGet.Config",

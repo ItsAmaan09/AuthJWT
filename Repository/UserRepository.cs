@@ -1,3 +1,4 @@
+using System;
 using System.Data;
 using Microsoft.Data.SqlClient;
 using SimpleJWT.Models;
@@ -34,7 +35,7 @@ namespace SimpleJWT
 					{
 						User user = new User
 						{
-							UserID = (int)reader["UserID"],
+							UserID = (short)reader["UserID"],
 							UserName = (string)reader["UserName"],
 							Password = (string)reader["Password"],
 							FirstName = (string)reader["FirstName"],
@@ -107,7 +108,7 @@ namespace SimpleJWT
 				{
 					User user1 = new User
 					{
-						UserID = (int)reader["UserID"],
+						UserID = (short)reader["UserID"],
 						UserName = (string)reader["UserName"],
 						Password = (string)reader["Password"],
 						FirstName = (string)reader["FirstName"],
